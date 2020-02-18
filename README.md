@@ -10,4 +10,8 @@ cnpm install
 cnpm run dev
 ```
 
+运行：http://127.0.0.1:8081/login
 
+账号：admin123
+
+密码：123456
